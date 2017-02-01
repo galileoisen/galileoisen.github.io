@@ -64,3 +64,8 @@ footer.page-footer {
 .header2 {
     font-size: 30px;
 }
+
+body {
+    text-align: justify;
+    text-justify: inter-word;
+}
